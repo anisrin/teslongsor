@@ -1,0 +1,1 @@
+var json_rainbowalmnd_2 = {"type":"FeatureCollection","name":"rainbowalmnd_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"foto":"Taman-Rainbow-Alamanda-Bekasi.jpg"},"geometry":{"type":"Point","coordinates":[107.021322923369937,-6.266192763559309]}}]}
